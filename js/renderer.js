@@ -10,7 +10,7 @@ function Renderer(canvasName, vertSrc, fragSrc)
   this.ambientColor = [0.2, 0.1, 0.0];
   this.diffuseColor = [0.8, 0.4, 0.0];
   this.specularColor = [1.0, 1.0, 1.0];
-  this.clearColor = [0.0, 0.4, 0.7];
+  this.clearColor = [0.0, 0.17, 0.31];
   this.attenuation = 0.01;
   this.shininess = 80.0;
   this.kaVal = 1.0;
